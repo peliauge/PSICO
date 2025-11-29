@@ -1,0 +1,7 @@
+{
+  "name": "PsicoGestión AI",
+  "description": "Plataforma integral para la gestión de consultas de psicología con agenda inteligente, historial clínico asistido por IA y control financiero.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
